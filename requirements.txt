@@ -1,0 +1,6 @@
+yfinance
+sgs
+pandas_datareader
+pandas
+matplotlib
+prophet
